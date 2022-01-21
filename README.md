@@ -1,14 +1,13 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-This is the place where I opensource stuff and break things :rofl:
 
-<p align="center">
+
 - 🔭 I’m currently working on Java.
 - 🌱 I’m currently learning Java and Python.
 - 📫 How to reach me: smhrmnc@gmail.com
 
 🔗 &nbsp;**Connect with me**
 
-<p align="center">
+
 <a href="https://twitter.com/esmahr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Esmahr" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/esmaharmanc%C4%B1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Esmahr" height="30" width="40" /></a>
 <a href="https://www.instagram.com/esmahr_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Esmahr" height="30" width="40" /></a>
@@ -22,6 +21,3 @@ This is the place where I opensource stuff and break things :rofl:
   <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Esmahr&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="Esmahr"/>
 </a>
 </p>
-
-
-
