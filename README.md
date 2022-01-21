@@ -17,3 +17,7 @@
   <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=Esmahr&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="Esmahr"/> 
 </a>
 </p>
+
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?Esmahr=Esmahr&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?Esmahr=Esmahr&show_icons=true&theme=radical)
