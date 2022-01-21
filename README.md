@@ -1,7 +1,6 @@
 <h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Esma</h1>
 
-- 🔭 I’m currently working on Java.
-- 🌱 I’m currently learning Java and Python.
+- 🌱 I’m currently learning Java, Python.
 - 📫 How to reach me: smhrmnc@gmail.com
 
 🔗 &nbsp;**Connect with me**
