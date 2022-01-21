@@ -19,5 +19,5 @@
 </p>
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?Esmahr=Esmahr&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?Esmahr=Esmahr&show_icons=true&theme=radical)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=Esmahr&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Esmahr&show_icons=true&theme=radical)
