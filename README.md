@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Java.
 - 🌱 I’m currently learning Java and Python.
 - 📫 How to reach me: 
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-000?style=quare&labelColor=000&logo=Twitter&logoColor=white&link=link)](link) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/esmahr_/)](https://www.instagram.com/esmahr_/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-square&labelColor=757575&logo=Medium&logoColor=white&link=https://medium.com/@esmahr)](https://medium.com/@esmahr) 
 
