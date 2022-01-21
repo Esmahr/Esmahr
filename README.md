@@ -13,11 +13,10 @@
 ## 📊 My Github Stats
 
 <p align="center">
-<a href="https://github.com/Esmahr">
-  ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Esmahr&show_icons=true&theme=gradient) 
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=Esmahr&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Esmahr&show_icons=true&theme=radical)
 </a>
 </p>
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=Esmahr&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Esmahr&show_icons=true&theme=radical)
