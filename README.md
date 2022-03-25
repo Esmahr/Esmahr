@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EsmaHr" alt="EsmaHr" /> 
 </p>
 
-[![Medium Badge](https://img.shields.io/badge/-Esmahr-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@esmahr)](https://hasanalidev.medium.com)
-[![Linkedin Badge](https://img.shields.io/badge/-EsmaHarmancı-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esmaharmancı/)](https://www.linkedin.com/in/hasanalisiseci)
+[![Medium Badge](https://img.shields.io/badge/-Esmahr-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@esmahr)](https://medium.com/@esmahr)
+[![Linkedin Badge](https://img.shields.io/badge/-EsmaHarmancı-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esmaharmancı/)](https://www.linkedin.com/in/esmaharmancı/)
 [![Gmail Badge](https://img.shields.io/badge/-smhrmnc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smhrmnc@gmail.com)](mailto:smhrmnc@gmail.com)
 
 -I am interested in Mobile Application Development
