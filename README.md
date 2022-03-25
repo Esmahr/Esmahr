@@ -3,14 +3,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EsmaHr" alt="EsmaHr" /> 
 </p>
 
-- 🌱 I’m currently learning Java, dart.
-- 📫 How to reach me: smhrmnc@gmail.com
+[![Medium Badge](https://img.shields.io/badge/-Esmahr-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@esmahr)](https://hasanalidev.medium.com)
+[![Linkedin Badge](https://img.shields.io/badge/-EsmaHarmancı-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esmaharmancı/)](https://www.linkedin.com/in/hasanalisiseci)
+[![Gmail Badge](https://img.shields.io/badge/-smhrmnc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smhrmnc@gmail.com)](mailto:smhrmnc@gmail.com)
 
-## 🔗 &nbsp;**Connect with me**
+-I am interested in Mobile Application Development
 
-<a href="https://twitter.com/esmahr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Esmahr" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/esmaharmanc%C4%B1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Esmahr" height="30" width="40" /></a>
-<a href="https://www.instagram.com/esmahr_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Esmahr" height="30" width="40" /></a>
 
 
 ## 📊 My Github Stats
