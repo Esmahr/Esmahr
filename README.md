@@ -1,4 +1,4 @@
-<h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Esma</h1>
+<h1 align="center">Hi, I'm Esma</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EsmaHr" alt="EsmaHr" /> 
 </p>
