@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-EsmaHarmancı-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esmaharmancı/)](https://www.linkedin.com/in/esmaharmancı/)
 [![Gmail Badge](https://img.shields.io/badge/-smhrmnc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smhrmnc@gmail.com)](mailto:smhrmnc@gmail.com)
 
--I am interested in Mobile Application Development
+-I am interested in web development
 
 
 
