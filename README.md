@@ -10,10 +10,12 @@
 -I am interested in web development
 
 
-
 ## 📊 My Github Stats
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Esmahr&show_icons=true&theme=gradient) 
+
+##
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EsmaHr&layout=compact">
 </a>
 </p>
 
