@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Esma</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esmahr&label=Profile%20views&color=0e75b6&style=flat" alt="esmahr" /> </p>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **.NET**
 
-- 🌱 I’m currently learning **.NET, React**
+- 🌱 I’m currently learning **Java, C#, React**
 
 - 📫 How to reach me **smhrmnc@gmail.com**
 
