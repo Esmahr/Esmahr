@@ -8,10 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esmahr&label=Profile%20views&color=0e75b6&style=flat" alt="esmahr" /> </p>
 
 * I’m currently learning **Angular.js**
-## :gift: Support
-[![](https://img.shields.io/badge/buy%20me%20a%20coffee%20-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/esmahr)
-
-<br>
 
 <details>
 <summary>:computer:Most Used Languages</summary>
